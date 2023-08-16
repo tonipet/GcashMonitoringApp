@@ -15,6 +15,8 @@ namespace GcashMonitoringWeb.Data
 
         public DbSet<GcashMonitoringWeb.Models.LoginModel>? LoginModel { get; set; }
 
+
+
         
 
     }
