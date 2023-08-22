@@ -19,7 +19,7 @@ namespace GcashMonitoringWeb.Data
         public string? MiddleName { get; set; }
         [MaxLength(250)]
         public string? Username { get; set; }
-        public string? Pasword { get; set; }
+        public string? Password { get; set; }
         public string? Emailaddress { get; set; }
 
         public DateTime? DateRegister { get; set; }

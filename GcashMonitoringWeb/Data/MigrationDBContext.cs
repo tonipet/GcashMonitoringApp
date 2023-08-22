@@ -13,7 +13,7 @@ namespace GcashMonitoringWeb.Data
 
         public DbSet<tbl_login> tbl_login {get;set;}
 
-        public DbSet<GcashMonitoringWeb.Models.LoginModel>? LoginModel { get; set; }
+      
 
 
 
